@@ -45,6 +45,6 @@ I'm using Anaconda's conda tool to manage packages required for the project.
    $ conda install pandas numpy matplotlib scikit-learn seaborn
    ```
 
-## Stock market prices prediction and forecasting using Stacked LSTM
+## [Stock market prices prediction and forecasting using Stacked LSTM](Stock-Prices-Prediction-LSTM)
 
 [Python notebook](Stock-Prices-Prediction-LSTM/stacked_lstm.ipynb)
