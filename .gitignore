@@ -1,2 +1,5 @@
 .DS_Store
 **/.ipynb_checkpoints
+.vscode
+**/input_images/
+**/data.rar
