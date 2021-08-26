@@ -4,7 +4,10 @@ We're given several tasks out of which we need to complete atleast 2 tasks by th
 
 I've chosen to work with:
 
-- Stock market prices prediction and forecasting using Stacked LSTM
+- [Stock market prices prediction and forecasting using Stacked LSTM](Stock-Prices-Prediction-LSTM)
+  - [Python notebook](Stock-Prices-Prediction-LSTM/stacked_lstm.ipynb)
+- [Hand-written Math equation solver](Handwritten-Math-Equation-Solver)
+  - Simple operations like addition, subtraction, multiplication, division, etc.
 
 ## Prepare development environment
 
@@ -44,7 +47,3 @@ I'm using Anaconda's conda tool to manage packages required for the project.
    ```shell
    $ conda install pandas numpy matplotlib scikit-learn seaborn
    ```
-
-## [Stock market prices prediction and forecasting using Stacked LSTM](Stock-Prices-Prediction-LSTM)
-
-[Python notebook](Stock-Prices-Prediction-LSTM/stacked_lstm.ipynb)
