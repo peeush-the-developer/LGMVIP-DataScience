@@ -26,6 +26,6 @@ To solve this complex problem, I have divided it into following steps:
 
 ## References:
 
-[Handwritten equation solver](https://github.com/vipul79321/Handwritten-Equation-Solver)
-[Pytorch tutorials](https://pytorch.org/tutorials/)
-[To draw expressions and then snapshot the expression](https://www.mathsisfun.com/geometry/drawing.html)
+- [Handwritten equation solver](https://github.com/vipul79321/Handwritten-Equation-Solver)
+- [Pytorch tutorials](https://pytorch.org/tutorials/)
+- [To draw expressions and then snapshot the expression](https://www.mathsisfun.com/geometry/drawing.html)
